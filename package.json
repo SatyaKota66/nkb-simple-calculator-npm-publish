@@ -1,0 +1,23 @@
+{
+  "name": "nkb-simple-calculator",
+  "version": "1.2.1",
+  "description": "Basic Calculator",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "publicutility": "^1.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kusuma-Bhargavi-Nadendla/nkb-simple-calculator-npm-publish.git"
+  }
+}
